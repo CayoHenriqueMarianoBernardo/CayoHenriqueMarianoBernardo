@@ -1,6 +1,6 @@
 ## Olá Você 👀
 
-Gosto de pegar uma ideia que está só na minha cabeça e tentar transformá-la em algo real — seja um site, uma experiência visual, um sistema ou simplesmente um experimento para entender como alguma tecnologia funciona.
+Gosto de pegar uma ideia que está só na minha cabeça e tentar transformá-la em algo real, seja um site, uma experiência visual, um sistema ou simplesmente um experimento para entender como alguma tecnologia funciona.
 
 Não me considero um especialista.
 
